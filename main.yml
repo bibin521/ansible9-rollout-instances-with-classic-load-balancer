@@ -2,8 +2,8 @@
 - name: "creating aws infra using ansible"
   hosts: localhost
   vars:
-    access_key: "AKIA46VIA32ICXOYJ7GU"
-    secret_key: "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"
+    access_key: "*********"
+    secret_key: "******************"
     region: "ap-south-1"
   
   tasks:
